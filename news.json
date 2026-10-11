@@ -1,1 +1,143 @@
+[
+  {
+    "name": "Al Jazeera 4K",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675670.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675670.ts"
+  },
+  {
+    "name": "Al Jazeera SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675671.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675671.ts"
+  },
+  {
+    "name": "Al Jazeera English",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675674.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675674.ts"
+  },
+  {
+    "name": "Al Hiwar News TV",
+    "logo": "http://0809-2026.info:8089/logo/chn/85668585.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85668585.ts"
+  },
+  {
+    "name": "Al-Manar",
+    "logo": "http://0809-2026.info:8089/logo/chn/6300.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/6300.ts"
+  },
+  {
+    "name": "RT NEWS",
+    "logo": "http://0809-2026.info:8089/logo/chn/251.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/251.ts"
+  },
+  {
+    "name": "Al-Arabia",
+    "logo": "http://0809-2026.info:8089/logo/chn/3745.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/3745.ts"
+  },
+  {
+    "name": "AL.Hadath",
+    "logo": "http://0809-2026.info:8089/logo/chn/603.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/603.ts"
+  },
+  {
+    "name": "ALARABY NEWS",
+    "logo": "http://0809-2026.info:8089/logo/chn/65390.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/65390.ts"
+  },
+  {
+    "name": "AlMayaden",
+    "logo": "http://0809-2026.info:8089/logo/chn/247.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/247.ts"
+  },
+  {
+    "name": "BBC Arab",
+    "logo": "http://0809-2026.info:8089/logo/chn/245.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/245.ts"
+  },
+  {
+    "name": "CNBC NEWS",
+    "logo": "http://0809-2026.info:8089/logo/chn/65389.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/65389.ts"
+  },
+  {
+    "name": "Al Arabiya 4K",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675676.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675676.ts"
+  },
+  {
+    "name": "TRT ARABIC",
+    "logo": "http://0809-2026.info:8089/logo/chn/65386.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/65386.ts"
+  },
+  {
+    "name": "SKY NEWS ARABIC",
+    "logo": "http://0809-2026.info:8089/logo/chn/65387.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/65387.ts"
+  },
+  {
+    "name": "France24",
+    "logo": "http://0809-2026.info:8089/logo/chn/246.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/246.ts"
+  },
+  {
+    "name": "CNN",
+    "logo": "http://0809-2026.info:8089/logo/chn/8917.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/8917.ts"
+  },
+  {
+    "name": "Nabaa News",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675701.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675701.ts"
+  },
+  {
+    "name": "Asharq News HD",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675700.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675700.ts"
+  },
+  {
+    "name": "Al Haqeqa Dawalah",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675699.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675699.ts"
+  },
+  {
+    "name": "DW Arabic HD",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675697.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675697.ts"
+  },
+  {
+    "name": "France 24 Arabic SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675695.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675695.ts"
+  },
+  {
+    "name": "RT Arabic SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675688.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675688.ts"
+  },
+  {
+    "name": "Al Ghad Al Araby HD",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675690.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675690.ts"
+  },
+  {
+    "name": "Araby 2 HD",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675686.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675686.ts"
+  },
+  {
+    "name": "Sky News Arabic SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675682.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675682.ts"
+  },
+  {
+    "name": "Al Hadath 4K",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675680.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675680.ts"
+  },
+  {
+    "name": "Al Mustakila",
+    "logo": "http://0809-2026.info:8089/logo/chn/85675703.jpg",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675703.ts"
+  }
+]
 
